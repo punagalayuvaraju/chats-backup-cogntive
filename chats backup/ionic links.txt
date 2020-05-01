@@ -1,0 +1,269 @@
+Chat
+STARRED
+B Suhashiniprabhu
+Dhana Sekhar Buddha
+Jyothi Tantiya
+Kadali Manoj Kumar
+Kumaran V
+Mahesh Mekala
+Mallikarjuna Prasad
+Naga Durga prasad Matta
+Nikhil Mohan Goud Burra
+Pavani Sahukari
+Pradeep Kumar J
+Sai Krishna Para
+Sathish Kumar C
+Thiyagarajan Dhilipkumar
+Venkatesh Chavvakula
+Yugandhar Reddy Dubba
+PEOPLE
+Devendraswamy Revu
+Mandala Mani Teja
+Gayatri Prasanna Burra
+Rajasekhar Yadavalli
+Madasu Satya Krishna
+Venkata Kalyan Bellamkonda
+More DMs.
+More
+ROOMS
+important linksRoom
+WEB-TT /Instant CashRoom
+Ionic mobile teamRoom
+26 Jun
+#WALLETRoom
+teamsRoom
+BOTS
+Bots can automate tasks or send timely updates.
+👋
+Ionic mobile team
+B Suhashiniprabhu created this room on Thursday, 25 Oct 2018
+.
+ROOM UPDATE:B SUHASHINIPRABHU ADDED KUMARAN V, PRADEEP KUMAR J, MANIYARASI M, P YUVARAJU, BANKURU PRASADA RAO, MEDAPATI ADISEKHAR
+TUESDAY, 30 OCT 2018
+B Suhashiniprabhu. =========================. 25 Oct 2018, 11:47. Last updated: 30 Oct 2018, 15:08. 18 replies
+Follow
+
+B Suhashiniprabhu
+,
+25 Oct 2018, 11:47
+,
+=========================
+9
+Pradeep Kumar, B
+
+Pradeep Kumar J
+,
+25 Oct 2018, 12:54
+,
+do git pull
+
+Pradeep Kumar J
+,
+25 Oct 2018, 16:22
+,
+do git pull
+
+Pradeep Kumar J
+,
+25 Oct 2018, 16:47
+,
+.sort({created_at: 'desc'})
+
+Maniyarasi M
+,
+29 Oct 2018, 17:03
+,
+----------------------------
+https://www.npmjs.com/package/cordova-plugin-ios-camera-permissions
+cordova-plugin-ios-camera-permissions
+cordova-plugin-ios-camera-permissions
+www.npmjs.com
+npm i cordova-plugin-ios-camera-permissions
+cordova plugin add cordova-plugin-ios-camera-permissions --save
+
+Kumaran V
+,
+30 Oct 2018, 15:08
+,
+const confirm = this.alertCtrl.create({
+                      enableBackdropDismiss:false,
+
+                      // title: 'Confirmation',
+                      message: 'Please Upload Valid Passport Size Photos',                
+                     
+                      buttons: [
+                        {
+                          text: 'Ok',
+                
+                          handler: () => {
+                            // this.navCtrl.popToRoot({animation: 'ios-transition'});
+                
+                
+                            console.log('Disagree clicked');
+                          }
+                        }
+                       
+                      ]
+                    });
+                    confirm.present();
+
+Reply
+THURSDAY, 8 NOV 2018
+P Yuvaraju. https://www.tutorialsplane.com/ionic-check-inte.... 8 Nov 2018, 11:57. Last updated: 8 Nov 2018, 12:32. 2 replies
+Following
+
+P Yuvaraju
+,
+8 Nov 2018, 11:57
+,
+https://www.tutorialsplane.com/ionic-check-internet-connection/
+
+P Yuvaraju
+,
+8 Nov 2018, 12:32
+,
+https://www.youtube.com/watch?v=-bwx7KnLWYw&t=305s
+Play video
+
+Reply
+FRIDAY, 9 NOV 2018
+Pradeep Kumar J. auth(fdata) { this.formSubmited = true; if .... 8 Nov 2018, 13:12. Last updated: 9 Nov 2018, 12:34. 3 replies
+Follow
+
+Pradeep Kumar J
+,
+8 Nov 2018, 13:12
+,
+auth(fdata)
+{
+  this.formSubmited = true;
+  if (fdata.valid){
+    console.log(fdata)
+    this.formSubmited = false;
+    this.accountvalue = fdata;
+    this.data = "trying to detect liveness"
+    this.spoof = "mobile phone"
+    this.camopen = true;
+    this.progresscount = 0;
+    this.time = 0;
+    this.StartTimer();
+
+    let brightnessValue = 1;
+    this.brightness.setBrightness(brightnessValue);
+
+    //   this.loading = this.loadingCtrl.create({
+    //     spinner: 'bubbles',
+    //   });
+
+    //   this.loading.present();
+
+    var isPlaying = false;
+    var gotMetadata = false;
+    this.video = document.getElementById('myVideo');
+    // document.body.appendChild(this.drawCanvas);
+    navigator.mediaDevices.getUserMedia(this.constraints)
+      .then(stream => {
+        this.video.srcObject = stream;
+        console.log("Got local user video");
+        this.video.onloadedmetadata = () => {
+          console.log("video metadata ready");
+          gotMetadata = true;
+          if (isPlaying && this.video.srcObject != null)
+            this.startObjectDetection()
+        };
+
+        //see if the video has started playing
+        this.video.onplaying = () => {
+          // this.StartTimer();
+          console.log("video playing");
+          isPlaying = true;
+          if (gotMetadata && this.video.srcObject != null) {
+            this.startObjectDetection()
+          }
+          else {
+            console.log("hello")
+          }
+        };
+      })
+      .catch(err => {
+        console.log('navigator.getUserMedia error: ', err)
+      });
+    if (this.video.srcObject == null) {
+      console.log("completed")
+    }
+//   this.formSubmited=true;
+// if(data.valid){
+
+//       this.formSubmited=false;
+//   this.accountvalue=data;
+//   console.log(this.accountvalue.value)
+//   console.log(this.final)
+//   this.navCtrl.push('AuthenticatePage',{page:'newaccounts',accounts:this.accountvalue,data12:this.Profiledata,finaldata:this.final});}
+  }
+  
+}
+
+Kumaran V
+,
+9 Nov 2018, 12:34
+,
+Username: 9944173313
+Password: Kumaran@1997
+
+Reply
+WEDNESDAY, 26 JUN
+Medapati Adisekhar. npm install angular2-signaturepad --save. 19 Nov 2018, 17:12. Last updated: 26 Jun, 14:52. 75 replies
+Following
+
+Medapati Adisekhar
+,
+19 Nov 2018, 17:12
+,
+npm install angular2-signaturepad --save
+66
+You, Bankuru, Medapati, B, Pradeep Kumar, Kumaran…
+
+P Yuvaraju
+,
+19 Jun, 14:34
+,
+https://auth0.com/rules/get-twitter-email
+Get email address from Twitter
+Get email address from Twitter
+auth0.com
+
+P Yuvaraju
+,
+20 Jun, 17:30
+,
+ionic cordova plugin add cordova-plugin-googleplus --variable REVERSED_CLIENT_ID=891643473887-52o95bdleshs067m0agdudjjrfmjlr19.apps.googleusercontent.com
+npm install --save @ionic-native/google-plus@4
+
+P Yuvaraju
+,
+21 Jun, 09:56
+,
+ionic cordova plugin add cordova-plugin-facebook4 --variable APP_ID="411381282923346" --variable APP_NAME="DOCINTACTMOBILE"
+npm install --save @ionic-native/facebook@4
+
+Kumaran V
+,
+21 Jun, 16:30
+,
+router.post('/twitterlogin', controller.twitteruserinfoweb);
+Changed
+
+P Yuvaraju
+,
+26 Jun, 14:52
+,
+<intent-filter>
+                <action android:name="android.intent.action.SEND" />
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="application/pdf" />
+            </intent-filter>
+
+Reply
+New thread in Ionic mobile teamRoom
+Entering recent section

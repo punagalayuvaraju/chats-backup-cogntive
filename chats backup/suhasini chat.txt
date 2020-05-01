@@ -1,0 +1,144 @@
+Chat
+STARRED
+B Suhashiniprabhu
+Dhana Sekhar Buddha
+Jyothi Tantiya
+Kadali Manoj Kumar
+Kumaran V
+Mahesh Mekala
+Mallikarjuna Prasad
+Naga Durga prasad Matta
+Nikhil Mohan Goud Burra
+Pavani Sahukari
+Pradeep Kumar J
+Sai Krishna Para
+Sathish Kumar C
+Thiyagarajan Dhilipkumar
+Venkatesh Chavvakula
+Yugandhar Reddy Dubba
+PEOPLE
+Devendraswamy Revu
+Mandala Mani Teja
+Gayatri Prasanna Burra
+Rajasekhar Yadavalli
+Madasu Satya Krishna
+Venkata Kalyan Bellamkonda
+More DMs.
+More
+ROOMS
+important linksRoom
+WEB-TT /Instant CashRoom
+Ionic mobile teamRoom
+#WALLETRoom
+teamsRoom
+BOTS
+Bots can automate tasks or send timely updates.
+WEDNESDAY, 22 JAN
+
+B Suhashiniprabhu
+,
+22 Jan, 09:54
+,
+pavani is working in her system
+wait for 5 mins i will connect
+
+P Yuvaraju
+,
+22 Jan, 09:54
+,
+Okay
+WEDNESDAY, 29 JAN
+
+P Yuvaraju
+,
+29 Jan, 16:01
+,
+https://www.dev6.com/angular/angular-material-chips-with-reactive-forms-and-custom-validation/
+Angular Material Chips with Reactive Forms and Custom Validation - Aquent | DEV6
+Angular Material Chips with Reactive Forms and Custom Validation - Aquent | DEV6
+www.dev6.com
+THURSDAY, 30 JAN
+
+B Suhashiniprabhu
+,
+30 Jan, 12:01
+,
+oii
+send me function to accept only numbers
+
+P Yuvaraju
+,
+30 Jan, 12:03
+,
+kk
+(keypress)="numberOnly($event)"
+/*
+    Input : entered text
+    Output : type number will be output
+      */
+  // ---------------function called for allowing
+  // input type only as number ---------------//
+  numberOnly(event): boolean {
+    const charCode = (event.which) ? event.which : event.keyCode;
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+      return false;
+    }
+    return true;
+  }
+WEDNESDAY, 26 FEB
+
+B Suhashiniprabhu
+,
+26 Feb, 15:08
+,
+var formData = new FormData();
+for (var i = 0; i < Data.length; i += 1) {
+    var x=Data[i];
+    formData.append(x.NAME, x.VALUE);
+    console.log(formData.get(x.NAME));
+}
+THURSDAY, 27 FEB
+
+P Yuvaraju
+,
+27 Feb, 11:10
+,
+suhasini come here once i have dought
+SATURDAY, 7 MAR
+
+P Yuvaraju
+,
+Sat 10:57
+,
+prabhu
+password authentication is not working fine
+what ever passwords giving it is taking
+
+B Suhashiniprabhu
+,
+Sat 10:58
+,
+Passport js authentication??
+
+P Yuvaraju
+,
+Sat 10:58
+,
+Yes
+connect through remina pabhu
+
+B Suhashiniprabhu
+,
+Sat 10:59
+,
+send ip
+
+P Yuvaraju
+,
+Sat 11:00
+,
+172.16.1.103
+actual password is Amulu@143
+
+History on
+Entering starred section

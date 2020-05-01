@@ -1,0 +1,828 @@
+
+Yugandhar Reddy Dubba. http://raksonibs.github.io/blog/34/. 10 Nov 2018, 09:06. Last updated: Yesterday 18:04. 101 replies
+Following
+
+Yugandhar Reddy Dubba
+,
+10 Nov 2018, 09:06
+,
+http://raksonibs.github.io/blog/34/
+
+Yugandhar Reddy Dubba
+,
+10 Nov 2018, 09:59
+,
+http://walidhosseini.com/journal/2014/10/18/passport-local-strategy-auth.html
+
+Yugandhar Reddy Dubba
+,
+10 Nov 2018, 11:02
+,
+sudo sysctl fs.inotify.max_user_watches=524288
+sudo sysctl -p --system
+
+Yugandhar Reddy Dubba
+,
+13 Nov 2018, 11:55
+,
+https://users.wix.com/signin?originUrl=https:%2F%2Fwww.wix.com%2Fmystunningwebsites%2Fpickyourtemplate%3Futm_medium%3Dpaid_referral%26utm_source%3Daffiliate&overrideLocale=en&postLogin=https:%2F%2Fwww.wix.com%2Fmy-account&postSignUp=http:%2F%2Fwww.wix.com%2Fnew%2Faccount&sendEmail=true&view=showLogin
+Log In | Wix
+Log In | Wix
+users.wix.com
+
+Pavani Sahukari
+,
+15 Nov 2018, 10:31
+,
+https://dzone.com/articles/understanding-output-and-eventemitter-in-angular
+Understanding @Output and EventEmitter in Angular - DZone Web Dev
+Understanding @Output and EventEmitter in Angular - DZone Web Dev
+dzone.com
+
+Venkata Prasanth Kodari
+,
+15 Nov 2018, 11:18
+,
+http://l-lin.github.io/angular-datatables/#/getting-started
+Angular DataTables
+Angular DataTables
+l-lin.github.io
+
+Venkata Prasanth Kodari
+,
+15 Nov 2018, 15:37
+,
+https://medium.com/@doyinolarewaju/firing-global-events-in-angular-2-4-af3c8ac874ec
+Firing Global Events In Angular 2 & 4 – Doyin Olarewaju – Medium
+Firing Global Events In Angular 2 & 4 – Doyin Olarewaju – Medium
+medium.com
+
+Pavani Sahukari
+,
+16 Nov 2018, 12:49
+,
+yo node-express-mongo:endpoint message
+command for creating another api
+
+Pavani Sahukari
+,
+16 Nov 2018, 17:10
+,
+https://blog.realworldfullstack.io/real-world-angular-part-7-lazy-coding-load-splitting-4552f5f54ef7
+Real World Angular - Part 7: Split my lazy loaded code
+Real World Angular - Part 7: Split my lazy loaded code
+blog.realworldfullstack.io
+
+Sai Susmitha Kondari
+,
+21 Nov 2018, 10:03
+,
+https://github.com/mazdik/ng-crud-table
+mazdik/ng-crud-table
+mazdik/ng-crud-table
+github.com
+https://cassandra.apache.org/download/
+
+Venkata Prasanth Kodari
+,
+21 Nov 2018, 11:49
+,
+https://www.toptal.com/designers/htmlarrows/symbols/check-mark/
+Check Mark HTML Symbol, Character and Entity Codes
+www.toptal.com
+
+Pavani Sahukari
+,
+28 Nov 2018, 09:28
+,
+https://github.com/kolkov/angular-editor
+kolkov/angular-editor
+kolkov/angular-editor
+github.com
+
+Venkata Prasanth Kodari
+,
+5 Dec 2018, 14:34
+,
+var oldData = JSON.parse(JSON.stringify(userInfo));
+
+Sai Susmitha Kondari
+,
+11 Dec 2018, 16:33
+,
+https://codecanyon.net/item/job-portal-mobile-application-with-web-portal/20872795
+Job Portal Mobile Application With Web Portal
+Job Portal Mobile Application With Web Portal
+codecanyon.net
+
+Venkata Prasanth Kodari
+,
+12 Dec 2018, 16:38
+,
+https://hassantariqblog.wordpress.com/2017/03/22/angular2-custom-toaster-notification-service-using-angular2-material-snackbar-component/
+Angular2: Custom toaster / notification service using Angular2 Material Snackbar Component
+Angular2: Custom toaster / notification service using Angular2 Material Snackbar Component
+hassantariqblog.wordpress.com
+
+Venkata Prasanth Kodari
+,
+17 Dec 2018, 12:49
+,
+https://mattlewis92.github.io/angular-calendar/#/kitchen-sink
+https://github.com/Jamaks/ng-fullcalendar-demo
+Jamaks/ng-fullcalendar-demo
+Jamaks/ng-fullcalendar-demo
+github.com
+https://developers.google.com/calendar/quickstart/nodejs
+Node.js Quickstart | Calendar API | Google Developers
+developers.google.com
+
+Venkata Prasanth Kodari
+,
+18 Dec 2018, 09:31
+,
+<i class="fa fa-spinner fa-pulse fa-x fa-fw"></i>
+
+Venkata Prasanth Kodari
+,
+18 Dec 2018, 12:18
+,
+https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0
+48 answers on StackOverflow to the most popular Angular questions
+48 answers on StackOverflow to the most popular Angular questions
+medium.freecodecamp.org
+
+Venkata Prasanth Kodari
+,
+20 Dec 2018, 09:07
+,
+13.233.84.140
+
+Sai Susmitha Kondari
+,
+20 Dec 2018, 09:12
+,
+IP:52.66.17.203
+
+Venkata Prasanth Kodari
+,
+20 Dec 2018, 10:41
+,
+https://material.angular.io/components/select/overview
+
+Pavani Sahukari
+,
+7 Feb 2019, 12:05
+,
+sudo apt-get update  <------ If need
+sudo apt-get install git
+next clone the repository in your destination file location
+git clone https://github.com/cognitiveinnovations/docIntact.git
+
+Venkata Prasanth Kodari
+,
+7 Feb 2019, 12:31
+,
+Edited,
+-----------------------------------------
+npm install --global yo  <-------------Install yo globally
+npm i generator-node-express-mongo  <----------
+yo node-express-mongo docintact  <-------------Go to project file and create backend folder, next open the terminal and run this command.
+
+Venkata Prasanth Kodari
+,
+8 Feb 2019, 09:49
+,
+yo node-express-mongo:endpoint message
+command for creating another api
+
+Venkata Prasanth Kodari
+,
+8 Feb 2019, 12:03
+,
+https://malcoded.com/posts/angular-file-explorer-component
+Creating a File Explorer Component in Angular
+malcoded.com
+https://ej2.syncfusion.com/angular/demos/?_ga=2.161378045.1342471144.1549362659-1621171274.1549362659#/material/document-editor/default
+
+Venkata Prasanth Kodari
+,
+13 Feb 2019, 16:59
+,
+https://www.syncfusion.com/angular-ui-components/file-upload
+Angular File Upload Component with Progress Bar | Syncfusion
+Angular File Upload Component with Progress Bar | Syncfusion
+www.syncfusion.com
+
+Pavani Sahukari
+,
+14 Feb 2019, 14:15
+,
+https://github.com/georgipeltekov/ngx-file-drop#readme
+georgipeltekov/ngx-file-drop
+georgipeltekov/ngx-file-drop
+github.com
+
+Venkata Prasanth Kodari
+,
+14 Feb 2019, 16:24
+,
+import { Component } from '@angular/core';
+import { CdkDragDrop, moveItemInArray, transferArrayItem } from '@angular/cdk/drag-drop';
+
+@Component({
+  selector: 'app-mydraganddrop',
+  templateUrl: './mydraganddrop.component.html',
+  styleUrls: ['./mydraganddrop.component.css'],
+})
+export class MydraganddropComponent {
+  todo = [
+    'Get to work',
+    'Pick up groceries',
+    'Go home',
+    'Fall asleep'
+  ];
+
+  done = [
+    'Get up',
+    'Brush teeth',
+    'Take a shower',
+    'Check e-mail',
+    'Walk dog'
+  ];
+
+  drop(event: CdkDragDrop<string[]>) {
+    if (event.previousContainer === event.container) {
+      moveItemInArray(event.container.data, event.previousIndex, event.currentIndex);
+    } else {
+      transferArrayItem(event.previousContainer.data,
+          event.container.data,
+          event.previousIndex,
+          event.currentIndex);
+    }
+  }
+}
+--------------------------------------
+<div class="container">
+  <h2>To do</h2>
+
+  <div cdkDropList #todoList="cdkDropList" [cdkDropListData]="todo"
+      [cdkDropListConnectedTo]="doneList" class="list" (cdkDropListDropped)="drop($event)">
+    <div class="list-item" *ngFor="let item of todo" cdkDrag>{{item}}</div>
+  </div>
+</div>
+
+<div class="container">
+  <h2>Done</h2>
+
+  <div cdkDropList #doneList="cdkDropList" [cdkDropListData]="done"
+      [cdkDropListConnectedTo]="todoList" class="list" (cdkDropListDropped)="drop($event)">
+    <div class="list-item" *ngFor="let item of done" cdkDrag>{{item}}</div>
+  </div>
+</div>
+
+Venkata Prasanth Kodari
+,
+14 Feb 2019, 16:43
+,
+😇
+
+Venkata Prasanth Kodari
+,
+15 Mar 2019, 09:21
+,
+sudo sysctl fs.inotify.max_user_watches=524288
+sudo sysctl -p --system
+
+Venkata Prasanth Kodari
+,
+29 Mar 2019, 10:50
+,
+ng serve --disable-host-check
+
+Pavani Sahukari
+,
+5 Apr, 16:39
+,
+https://stackblitz.com/edit/owl-datetimepicker?file=src%2Fapp%2Fbasic%2Fbasic.component.html
+owl-datetimepicker - StackBlitz
+owl-datetimepicker - StackBlitz
+stackblitz.com
+
+Venkata Prasanth Kodari
+,
+16 Apr, 18:06
+,
+https://medium.com/@erbalvindersingh/convert-a-base64-url-to-image-file-in-angular-4-5796a19fdc21
+Convert a Base64 url to image file in Angular 4+
+Convert a Base64 url to image file in Angular 4+
+medium.com
+
+Venkata Prasanth Kodari
+,
+29 Apr, 15:43
+,
+http://www.codeblocq.com/2016/04/Convert-a-base64-string-to-a-file-in-Node/
+Convert a base64 string to a file in Node
+Convert a base64 string to a file in Node
+www.codeblocq.com
+
+Venkata Prasanth Kodari
+,
+29 Apr, 16:32
+,
+https://stackoverflow.com/questions/4998908/convert-data-uri-to-file-then-append-to-formdata/5100158
+Convert Data URI to File then append to FormData
+Convert Data URI to File then append to FormData
+stackoverflow.com
+
+Venkata Prasanth Kodari
+,
+17 May, 17:55
+,
+https://stackblitz.com/edit/angular-owl-dateformat?file=src%2Fapp%2Fdate-filter.pipe.ts
+angular-owl-dateformat - StackBlitz
+angular-owl-dateformat - StackBlitz
+stackblitz.com
+https://danielykpan.github.io/date-time-picker/#locale-formats
+
+Pavani Sahukari
+,
+28 May, 17:49
+,
+https://stackoverflow.com/questions/880512/prevent-text-selection-after-double-click
+Prevent text selection after double click
+Prevent text selection after double click
+stackoverflow.com
+
+Pavani Sahukari
+,
+4 Jun, 14:54
+,
+https://github.com/Hopding/pdf-lib/issues/10
+Centering text · Issue #10 · Hopding/pdf-lib
+Centering text · Issue #10 · Hopding/pdf-lib
+github.com
+
+Pavani Sahukari
+,
+11 Jun, 22:34
+,
+https://github.com/szimek/signature_pad/issues/318
+Signature_pad Problem in Mobile · Issue #318 · szimek/signature_pad
+Signature_pad Problem in Mobile · Issue #318 · szimek/signature_pad
+github.com
+
+Venkata Prasanth Kodari
+,
+23 Jun, 12:37
+,
+validate(password) {
+    this.passwordMinLength = false;
+    this.passwordupper = false;
+    this.passwordLower = false;
+    this.passwordNumber = false;
+    this.passwordSpecial = false;
+    var minMaxLength = /^[\s\S]{8,32}$/,
+      upper = /[A-Z]/,
+      lower = /[a-z]/,
+      number = /[0-9]/,
+      special = /[ !"#$%&'()*+,\-./:;<=>?@[\\\]^_`{|}~]/;
+
+    if (minMaxLength.test(password)) {
+      this.passwordMinLength = true;
+    }
+    if (upper.test(password)) {
+      this.passwordupper = true;
+    }
+    if (lower.test(password) && password != undefined) {
+      this.passwordLower = true;
+    }
+    if (number.test(password)) {
+      this.passwordNumber = true;
+    }
+    if (special.test(password)) {
+      this.passwordSpecial = true;
+    }
+  }
+===============================
+pattern='(?=.[a-z])(?=.[A-Z])(?=.[0-9])(?=.[$@.#!%?&])[A-Za-z\d$@.#!%?&]{8,14}'
+
+Venkata Prasanth Kodari
+,
+25 Jun, 15:31
+,
+https://www.npmjs.com/package/image-size
+image-size
+image-size
+www.npmjs.com
+
+Pavani Sahukari
+,
+26 Jun, 09:16
+,
+sudo sysctl fs.inotify.max_user_watches=524288
+sudo sysctl -p --system
+
+Venkata Prasanth Kodari
+,
+27 Jun, 18:18
+,
+https://stackoverflow.com/questions/37256745/object-fit-get-resulting-dimensions#
+object-fit: get resulting dimensions
+object-fit: get resulting dimensions
+stackoverflow.com
+
+Venkata Prasanth Kodari
+,
+23 Jul, 16:57
+,
+https://www.impressivewebs.com/avoiding-problems-with-javascript-getelementbyid-method-in-internet-explorer-7/
+Avoiding Problems With JavaScript's getElementById Method in Internet Explorer 7 - Impressive Webs
+Avoiding Problems With JavaScript's getElementById Method in Internet Explorer 7 - Impressive Webs
+www.impressivewebs.com
+
+Pavani Sahukari
+,
+24 Jul, 18:07
+,
+http://jsfiddle.net/taditdash/Hz4U9/
+
+Venkata Prasanth Kodari
+,
+8 Aug, 17:48
+,
+https://www.mkssoftware.com/docs/man5/regexp.5.asp
+
+Pavani Sahukari
+,
+20 Aug, 09:30
+,
+https://jqueryui.com/resizable/
+
+Pavani Sahukari
+,
+5 Sep, 13:24
+,
+https://confluence.atlassian.com/bitbucket/configure-your-dvcs-username-for-commits-950301867.html
+Atlassian Documentation
+Atlassian Documentation
+confluence.atlassian.com
+
+Venkata Prasanth Kodari
+,
+9 Sep, 16:13
+,
+https://nodejs.org/api/cluster.html
+https://medium.com/tech-tajawal/clustering-in-nodejs-utilizing-multiple-processor-cores-75d78aeb0f4f
+Clustering in NodeJs — Performance Optimization — Part I
+Clustering in NodeJs — Performance Optimization — Part I
+medium.com
+
+Venkata Prasanth Kodari
+,
+11 Sep, 12:29
+,
+https://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/
+How to Create a Node.js Cluster for Speeding Up Your Apps — SitePoint
+How to Create a Node.js Cluster for Speeding Up Your Apps — SitePoint
+www.sitepoint.com
+
+Venkata Prasanth Kodari
+,
+12 Sep, 17:05
+,
+https://stackoverflow.com/questions/54780477/in-ie-11-angular-5-cache-issue
+In IE 11 Angular 5 Cache Issue
+In IE 11 Angular 5 Cache Issue
+stackoverflow.com
+
+Venkata Prasanth Kodari
+,
+13 Sep, 13:09
+,
+https://www.npmjs.com/package/file-type
+file-type
+file-type
+www.npmjs.com
+
+Venkata Prasanth Kodari
+,
+19 Sep, 10:27
+,
+https://stackoverflow.com/questions/18310635/scaling-socket-io-to-multiple-node-js-processes-using-cluster
+Scaling Socket.IO to multiple Node.js processes using cluster
+Scaling Socket.IO to multiple Node.js processes using cluster
+stackoverflow.com
+
+Venkata Prasanth Kodari
+,
+19 Sep, 14:38
+,
+https://socket.io/docs/using-multiple-nodes/
+https://github.com/ykit9/node-express-sticky-cluster-example
+ykit9/node-express-sticky-cluster-example
+ykit9/node-express-sticky-cluster-example
+github.com
+https://blog.imaginea.com/7597-2/
+SETTING UP SOCKET.IO WITH NODE.JS CLUSTER
+SETTING UP SOCKET.IO WITH NODE.JS CLUSTER
+blog.imaginea.com
+https://github.com/ANURAGVASI/socket.io-multiserver-chatApp
+ANURAGVASI/socket.io-multiserver-chatApp
+ANURAGVASI/socket.io-multiserver-chatApp
+github.com
+
+Venkata Prasanth Kodari
+,
+20 Sep, 11:20
+,
+https://www.mcieslar.com/adding-socket-io-to-multithreaded-node
+Adding Socket.io to multi-threaded Node.js
+Adding Socket.io to multi-threaded Node.js
+www.mcieslar.com
+
+Venkata Prasanth Kodari
+,
+20 Sep, 17:35
+,
+https://tecadmin.net/install-redis-ubuntu/
+How to Install Redis on Ubuntu 18.04 & 16.04 LTS - TecAdmin
+How to Install Redis on Ubuntu 18.04 & 16.04 LTS - TecAdmin
+tecadmin.net
+
+Venkata Prasanth Kodari
+,
+23 Sep, 15:36
+,
+https://stackoverflow.com/questions/36454461/sticky-session-vs-socket-io-sticky-session-node-js-library-which-is-better
+sticky-session vs socket.io-sticky-session node js library ! Which is better?
+sticky-session vs socket.io-sticky-session node js library ! Which is better?
+stackoverflow.com
+
+Venkata Prasanth Kodari
+,
+23 Sep, 18:13
+,
+https://github.com/elad/node-cluster-socket.io
+elad/node-cluster-socket.io
+elad/node-cluster-socket.io
+github.com
+
+Pavani Sahukari
+,
+1 Oct, 14:37
+,
+sudo sysctl fs.inotify.max_user_watches=524288
+sudo sysctl -p --system
+
+Pavani Sahukari
+,
+3 Oct, 15:25
+,
+sudo apt-get install curl python-software-properties
+sudo apt-get install nodejs
+
+Venkata Prasanth Kodari
+,
+10 Oct, 10:08
+,
+https://pdfclown.files.wordpress.com/2015/02/userguide.pdf
+
+Venkata Prasanth Kodari
+,
+10 Oct, 10:28
+,
+https://github.com/Hopding/pdf-lib/issues/172
+Support for Digital Signatures · Issue #172 · Hopding/pdf-lib
+Support for Digital Signatures · Issue #172 · Hopding/pdf-lib
+github.com
+
+Pavani Sahukari
+,
+14 Oct, 12:21
+,
+https://stackoverflow.com/questions/42135058/set-minimum-step-size-in-chart-js
+Set minimum step size in chart js
+Set minimum step size in chart js
+stackoverflow.com
+
+Venkata Prasanth Kodari
+,
+17 Oct, 17:33
+,
+https://stackoverflow.com/questions/12906694/fs-createwritestream-does-not-immediately-create-file
+fs.createWriteStream does not immediately create file?
+fs.createWriteStream does not immediately create file?
+stackoverflow.com
+
+Venkata Prasanth Kodari
+,
+4 Nov, 10:21
+,
+https://www.sitepoint.com/how-to-build-a-web-app-with-graphql-and-react/
+How to Build a Web App with GraphQL and React — SitePoint
+How to Build a Web App with GraphQL and React — SitePoint
+www.sitepoint.com
+
+Pavani Sahukari
+,
+20 Nov, 12:40
+,
+https://stackoverflow.com/questions/38702471/specify-pdf-page-size-using-pdfkit-in-node-js
+specify PDF page size using pdfkit in node js
+specify PDF page size using pdfkit in node js
+stackoverflow.com
+
+Pavani Sahukari
+,
+25 Nov, 15:53
+,
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
+
+Pavani Sahukari
+,
+26 Nov, 15:48
+,
+https://stackoverflow.com/questions/2993902/how-do-i-check-the-date-and-time-of-the-latest-git-pull-that-was-executed
+How do I check the date and time of the latest `git pull` that was executed?
+How do I check the date and time of the latest `git pull` that was executed?
+stackoverflow.com
+
+Venkata Prasanth Kodari
+,
+26 Nov, 17:52
+,
+https://medium.com/@jadejayashraj/node-js-cluster-with-mqtt-socket-io-redis-and-sticky-sessions-d5be72ef65f0
+Node JS Cluster with MQTT, Socket.IO, Redis and Sticky Sessions.
+Node JS Cluster with MQTT, Socket.IO, Redis and Sticky Sessions.
+medium.com
+
+Pavani Sahukari
+,
+28 Nov, 16:27
+,
+https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration
+How to know the git username and email saved during configuration?
+How to know the git username and email saved during configuration?
+stackoverflow.com
+
+Pavani Sahukari
+,
+3 Dec, 12:14
+,
+node --max_old_space_size=8192 node_modules/@angular/cli/bin/ng build --prod
+
+Pavani Sahukari
+,
+5 Dec, 16:49
+,
+https://www.npmjs.com/package/simple-crypto-js
+simple-crypto-js
+simple-crypto-js
+www.npmjs.com
+
+Pavani Sahukari
+,
+13 Dec, 12:08
+,
+https://medium.com/skyshidigital/6-tricks-to-speed-up-and-improve-your-node-js-performance-fadc06d15cbe
+6 Tips and Techniques to Speed Up and Improve Your Node.js Performance
+6 Tips and Techniques to Speed Up and Improve Your Node.js Performance
+medium.com
+
+Pavani Sahukari
+,
+18 Dec, 13:07
+,
+https://stackblitz.com/edit/keyvalue-pipe?file=src%2Fapp%2Fapp.component.html
+keyvalue-pipe - StackBlitz
+keyvalue-pipe - StackBlitz
+stackblitz.com
+
+Pavani Sahukari
+,
+27 Dec, 16:43
+,
+sudo npm install phantomjs-prebuilt@2.1.13 -f
+
+Yugandhar Reddy Dubba
+,
+3 Jan, 11:06
+,
+Edited,
+//////////////////////////print css/////////////////////////
+@media print {
+    @page{
+        orientation: portrait !important;
+    }
+    table{
+        font-size: 14px !important;
+    }
+    table th {
+        -webkit-print-color-adjust: exact; 
+        background: #095ba5;
+        color: white;
+    }
+     .hide-print {
+        display: none;
+    }
+    .display-print {
+        display: inline !important;
+    }
+}
+//////////////////////////////////////////////////////////////////
+
+Pavani Sahukari
+,
+8 Jan, 09:01
+,
+https://github.com/streamproc/MediaStreamRecorder/issues/76
+[SOLVED] How to remove the recording icon after clicking stop(); ? · Issue #76 · streamproc/MediaStreamRecorder
+[SOLVED] How to remove the recording icon after clicking stop(); ? · Issue #76 · streamproc/MediaStreamRecorder
+github.com
+
+P Yuvaraju
+,
+8 Jan, 15:33
+,
+https://blog.insiderattack.net/developing-secure-node-js-applications-a-broad-guide-286afdec69ce
+Developing Secure Node.js Applications — A Broad Guide
+Developing Secure Node.js Applications — A Broad Guide
+blog.insiderattack.net
+
+Pavani Sahukari
+,
+9 Jan, 14:28
+,
+sudo kill -9 $(lsof -t -i:9000)
+to kill port
+
+Pavani Sahukari
+,
+27 Jan, 09:22
+,
+const HummusRecipe = require('hummus-recipe');
+    const pdfDoc = new HummusRecipe('new', __dirname + '/../../../' +'uploads/'+req.body.templatename+'.pdf');
+    for(var i = 0; i < req.body.pageNo-1; i++){
+        await  pdfDoc
+        .appendPage(__dirname + '/../../../' +'uploads/temp.pdf', 1)
+    }
+    pdfDoc.createPage('letter-size')
+    pdfDoc.endPage()
+    pdfDoc.endPDF();
+
+Yugandhar Reddy Dubba
+,
+3 Feb, 15:09
+,
+http://www.techprimelab.com/blogs/how-to-host-your-mean-app-on-aws-for-free
+
+Pavani Sahukari
+,
+7 Feb, 09:14
+,
+https://jsbin.com/piqiqecuxo/1/edit?html,js,console,output
+JS Bin
+JS Bin
+jsbin.com
+
+Yugandhar Reddy Dubba
+,
+7 Feb, 12:03
+,
+https://www.npmjs.com/package/joi
+joi
+joi
+www.npmjs.com
+
+P Yuvaraju
+,
+17 Feb, 12:04
+,
+https://8gwifi.org/pbkdf.jsp
+pbkd2 derive key
+pbkd2 derive key
+8gwifi.org
+
+P Yuvaraju
+,
+Sat 15:58
+,
+https://love2dev.com/blog/javascript-remove-from-array/
+9 Ways To Remove ️ Elements From A JavaScript Array [Examples]
+9 Ways To Remove ️ Elements From A JavaScript Array [Examples]
+love2dev.com
+
+Pavani Sahukari
+,
+Yesterday 18:04
+,
+https://www.npmjs.com/package/pdftoimage
+pdftoimage
+pdftoimage
+www.npmjs.com
+
+Reply
+New thread in important linksRoom
+Jump to bottom

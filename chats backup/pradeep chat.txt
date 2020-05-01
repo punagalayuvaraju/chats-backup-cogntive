@@ -1,0 +1,221 @@
+Chat
+STARRED
+B Suhashiniprabhu
+Dhana Sekhar Buddha
+Jyothi Tantiya
+Kadali Manoj Kumar
+Kumaran V
+Mahesh Mekala
+Mallikarjuna Prasad
+Naga Durga prasad Matta
+Nikhil Mohan Goud Burra
+Pavani Sahukari
+Pradeep Kumar J
+Sai Krishna Para
+Sathish Kumar C
+Thiyagarajan Dhilipkumar
+Venkatesh Chavvakula
+Yugandhar Reddy Dubba
+PEOPLE
+Devendraswamy Revu
+Mandala Mani Teja
+Gayatri Prasanna Burra
+Rajasekhar Yadavalli
+Madasu Satya Krishna
+Venkata Kalyan Bellamkonda
+More DMs.
+More
+ROOMS
+important linksRoom
+WEB-TT /Instant CashRoom
+Ionic mobile teamRoom
+#WALLETRoom
+teamsRoom
+BOTS
+Bots can automate tasks or send timely updates.
+WEDNESDAY, 3 JUL
+
+P Yuvaraju
+,
+3 Jul, 17:26
+,
+?
+
+Pradeep Kumar J
+,
+3 Jul, 17:26
+,
+about installing to sir
+
+P Yuvaraju
+,
+3 Jul, 17:27
+,
+k
+
+Pradeep Kumar J
+,
+3 Jul, 17:41
+,
+bro
+came bro
+THURSDAY, 4 JUL
+
+Pradeep Kumar J
+,
+4 Jul, 09:32
+,
+bro
+
+P Yuvaraju
+,
+4 Jul, 09:56
+,
+ss
+work on progress
+
+Pradeep Kumar J
+,
+4 Jul, 09:57
+,
+ok bro.
+
+P Yuvaraju
+,
+4 Jul, 11:37
+,
+Finished
+come once
+TUESDAY, 30 JUL
+
+P Yuvaraju
+,
+30 Jul, 16:33
+,
+import { Pipe, PipeTransform } from '@angular/core';
+import * as _ from 'lodash'
+@Pipe({
+  name: 'filter'
+})
+export class FilterPipe implements PipeTransform {
+     /*
+    @param
+    list    array   
+    args    string
+    data    array
+    @Output
+    Filters the array with args
+    */
+   transform(list: any, args: string,data:any,unique:any): string {
+     console.log(list,args,data)
+    if(!args){
+        return list;
+    }
+    return _.uniqBy(list.filter((lock) => {
+        return data.some((element) => {
+            return (lock[element].toLowerCase().match(args.toLowerCase()));
+        });
+      }), unique)
+}
+}
+<div class="row">
+    <table class="table">
+      <tr>
+        <th>SNo.</th>
+        <th>Application No.</th>
+        <th>Application User</th>
+        <th>Application Date</th>
+        <th>Currency</th>
+        <th>Amount</th>
+        <th>Beneficiary Name</th>
+      </tr>
+      <tr *ngIf="(dummy | filter: TTsearch:  ['appno','appuser']).length === 0">
+            "No matches"
+      </tr>
+      <tr *ngFor="let i of dummy | filter : TTsearch : ['appno','appuser'] : 'appno';let index=index">
+        <td>{{index+1}}</td> 
+        <td *ngIf="i.appno"><a style="color: blue" (click)="TTinfo(i)"><u>{{i.appno}}</u></a></td>
+        <td *ngIf="i.appuser">{{i.appuser}}</td>
+        <td *ngIf="i.appdate">{{i.appdate}}</td>
+        <td *ngIf="i.currency">{{i.currency}}</td>
+        <td *ngIf="i.amount">{{i.amount}}</td>
+        <td *ngIf="i.beneficiary">{{i.beneficiary}}</td>
+      </tr>
+    </table>
+
+  </div>
+THURSDAY, 8 AUG
+
+P Yuvaraju
+,
+8 Aug, 16:31
+,
+https://jasonwatmore.com/post/2019/06/14/angular-8-reactive-forms-validation-example
+Angular 8 - Reactive Forms Validation Example | Jason Watmore's Blog
+Angular 8 - Reactive Forms Validation Example | Jason Watmore's Blog
+jasonwatmore.com
+backup
+THURSDAY, 19 SEP
+
+Pradeep Kumar J
+,
+19 Sep, 13:02
+,
+bro
+
+P Yuvaraju
+,
+19 Sep, 18:04
+,
+ss
+SATURDAY, 5 OCT
+
+P Yuvaraju
+,
+5 Oct, 15:37
+,
+//   this.platform.ready().then(() => {
+  //     this.secureStorage.create('PasswordSMS')
+  //     .then((storage: SecureStorageObject) => {
+  //         storage.keys()
+  //          .then(data =>{
+  //            this.keyaarray=data;
+  //            alert(this.keyaarray+'@@@@@@@@@@@@@@')
+  //            this.promises = [];
+
+  //            data.forEach( key => this.promises.push(storage.get(key)) );
+           
+  //            return Promise.all(this.promises).then( values => {
+  //              const result = {};
+               
+  //              values.map( (value, index) => { 
+  //                result[data[index]] = value; 
+  //              });
+           
+  //              return result;
+  //            });
+  //          },err=>{
+  //            alert(err+"getting keys error")
+  //          });
+  //      })
+  // })
+  // alert(this.promises+"promiseesssss")
+WEDNESDAY, 30 OCT
+
+P Yuvaraju
+,
+30 Oct, 17:13
+,
+no-data-to-show.png
+MONDAY, 3 FEB
+
+Pradeep Kumar J
+,
+3 Feb, 18:03
+,
+bro
+
+
+
+
+History on

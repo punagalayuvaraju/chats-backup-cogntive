@@ -1,0 +1,271 @@
+Chat
+STARRED
+B Suhashiniprabhu
+Dhana Sekhar Buddha
+Jyothi Tantiya
+Kadali Manoj Kumar
+Kumaran V
+Mahesh Mekala
+Mallikarjuna Prasad
+Naga Durga prasad Matta
+Nikhil Mohan Goud Burra
+Pavani Sahukari
+Pradeep Kumar J
+Sai Krishna Para
+Sathish Kumar C
+Thiyagarajan Dhilipkumar
+Venkatesh Chavvakula
+Yugandhar Reddy Dubba
+PEOPLE
+Devendraswamy Revu
+Mandala Mani Teja
+Gayatri Prasanna Burra
+Rajasekhar Yadavalli
+Madasu Satya Krishna
+Venkata Kalyan Bellamkonda
+Fewer DMs.
+Less
+Kavya Priyanka Kakinada
+Gopisetty Ashok Kumar
+Ajay Krishna Ganipisetty
+Jagadeesh Grandhe
+Kaile Siva Srinadh
+John Sumanth Fraser
+Adityavardhan Nagamalli
+Bala Muralidhar Chelli
+Maniyarasi M
+Dandamudi Maneesha
+Medapati Adisekhar
+Ramadugu Venkata Sree Rama Chandra Murthy
+Veera Venkata Ratna Naveen Yenduri
+Srisri Tummu
+Nirupama Mathi
+Raja Sekhara Naidu Dande
+Murugan R
+Putti Tirumala Venkata Sai
+Praveen Kumar Pentyala
+Venkata Prasanth Kodari
+Saranya Venkatesan
+Sai Susmitha Kondari
+IT Admin
+Chinnakesava Srinivasulu
+Sunil Kumar Samanta
+Bankuru Prasada Rao
+Deleted User
+Deleted User
+Guna Sree Aavulinti
+Deleted User
+Venkata Lakshmi Bangaru
+Docintact Team
+Deleted User
+Deleted User
+Sai Aparna Kunkulagunta
+Deleted User
+Durga Suresh Paluri
+Deleted User
+Sandeep Burra
+Mownika Tenneti
+Deleted User
+ROOMS
+important linksRoom
+WEB-TT /Instant CashRoom
+Ionic mobile teamRoom
+#WALLETRoom
+teamsRoom
+BOTS
+Bots can automate tasks or send timely updates.
+FRIDAY, 31 MAY
+
+P Yuvaraju
+,
+31 May, 10:11
+,
+keytool -genkey -v -keystore my-key.keystore -alias myalias -keyalg RSA -keysize 2048 -validity 10000
+keytool -exportcert -list -v \
+-alias myalias -keystore my-key.keystore
+
+Bankuru Prasada Rao
+,
+31 May, 15:24
+,
+uploadmodal.module.ts
+
+P Yuvaraju
+,
+31 May, 16:36
+,
+https://nodestage.docintact.com
+
+Bankuru Prasada Rao
+,
+31 May, 16:37
+,
+Y u sent to me
+THURSDAY, 6 JUN
+
+Bankuru Prasada Rao
+,
+6 Jun, 15:11
+,
+ionic cordova plugin add cordova-plugin-facebook4 --variable APP_ID=2431902040261397 --variable APP_NAME=Docintact
+cordova plugin add twitter-connect-plugin --variable FABRIC_KEY=ba9d1171aa3f568f9415978a1186e725c772eab9
+MONDAY, 10 JUN
+
+P Yuvaraju
+,
+10 Jun, 15:07
+,
+no-reply@docintact.com
+Password1234*
+FRIDAY, 14 JUN
+
+Bankuru Prasada Rao
+,
+14 Jun, 17:45
+,
+https://www.npmjs.com/package/ionic-plugin-keyboard
+ionic-plugin-keyboard
+ionic-plugin-keyboard
+www.npmjs.com
+
+Bankuru Prasada Rao
+,
+14 Jun, 18:00
+,
+https://i.diawi.com/CrzRFm
+Install - Diawi - Development and In-house Apps Wireless Installation
+Install - Diawi - Development and In-house Apps Wireless Installation
+i.diawi.com
+FRIDAY, 21 JUN
+
+Bankuru Prasada Rao
+,
+21 Jun, 16:12
+,
+ionic cordova build android --prod --release
+TUESDAY, 25 JUN
+
+Bankuru Prasada Rao
+,
+25 Jun, 10:18
+,
+background: #0000ff30;
+WEDNESDAY, 26 JUN
+
+Bankuru Prasada Rao
+,
+26 Jun, 16:46
+,
+stopCarret(elem,e) { 
+    if (elem.value.length > 5 && e.keyCode!=37){
+      // this.setCaretPosition(elem, 5);
+    }
+  }
+  
+  setCaretPosition(elem, caretPos) {
+      if(elem != null) {
+          if(elem.createTextRange) {
+              var range = elem.createTextRange();
+              range.move('character', caretPos);
+              range.select();
+          }
+          else {
+              if(elem.selectionStart) {
+                  elem.focus();
+                  elem.setSelectionRange(caretPos, caretPos);
+              }
+              else
+                  elem.focus();
+          }
+      }
+  }
+<div id="divOuter">
+                      <div id="divInner">
+                        <input id="partitioned" #parti type="text" maxlength="6" (keypress)="stopCarret(parti,$event)" (keyup)="stopCarret(parti,$event)"/>
+                      </div>
+                    </div>
+#partitioned {
+    padding-left: 15px;
+    letter-spacing: 42px;
+    border: 0;
+    background-image: linear-gradient(to left, black 70%, rgba(255, 255, 255, 0) 0%);
+    background-position: bottom;
+    background-size: 50px 1px;
+    background-repeat: repeat-x;
+    background-position-x: 35px;
+    width: 330px;
+    min-width: 330px;
+  }
+  
+  #divInner{
+    left: 0;
+    position: sticky;
+  }
+  
+  #divOuter{
+    width: 285px; 
+    overflow: hidden;
+    margin: 0 auto;
+  }
+FRIDAY, 28 JUN
+
+P Yuvaraju
+,
+28 Jun, 11:57
+,
+GoogleService-Info.plist
+
+P Yuvaraju
+,
+28 Jun, 12:28
+,
+no-reply@docintact.com
+Password1234*
+MONDAY, 16 SEP
+
+Bankuru Prasada Rao
+,
+16 Sep, 15:05
+,
+http://www.africau.edu/images/default/sample.pdf
+WEDNESDAY, 18 SEP
+
+Bankuru Prasada Rao
+,
+18 Sep, 10:28
+,
+<ion-header>
+  <ion-navbar hideBackButton>
+    <ion-buttons left>
+      <button ion-button (click)="this.navCtrl.pop({animation:'ios-transition'})" padding>
+        <ion-icon class="customIcon" name="arrow-back" style="zoom:1.4;"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title text-center *ngIf="title"  class="ion-text-center"> My Files</ion-title>
+    <ion-title  text-center *ngIf="!title" class="ion-text-center"> Recent</ion-title>
+
+  </ion-navbar>
+</ion-header>
+FRIDAY, 4 OCT
+
+Bankuru Prasada Rao
+,
+4 Oct, 15:30
+,
+=============
+ <preference name="ScrollEnabled" value="false" />
+    <preference name="android-minSdkVersion" value="19" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="1000" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="SplashShowOnlyFirstTime" value="false" />
+    <preference name="FadeSplashScreen" value="false" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="loadUrlTimeoutValue" value="500000" />
+
+
+
+
+History on

@@ -1,0 +1,919 @@
+Chat
+STARRED
+B Suhashiniprabhu
+Dhana Sekhar Buddha
+Jyothi Tantiya
+Kadali Manoj Kumar
+Kumaran V
+Mahesh Mekala
+Mallikarjuna Prasad
+Naga Durga prasad Matta
+Nikhil Mohan Goud Burra
+Pavani Sahukari
+Pradeep Kumar J
+Sai Krishna Para
+Sathish Kumar C
+Thiyagarajan Dhilipkumar
+Venkatesh Chavvakula
+Yugandhar Reddy Dubba
+PEOPLE
+Devendraswamy Revu
+Mandala Mani Teja
+Gayatri Prasanna Burra
+Rajasekhar Yadavalli
+Madasu Satya Krishna
+Venkata Kalyan Bellamkonda
+Fewer DMs.
+Less
+Kavya Priyanka Kakinada
+Gopisetty Ashok Kumar
+Ajay Krishna Ganipisetty
+Jagadeesh Grandhe
+Kaile Siva Srinadh
+John Sumanth Fraser
+Adityavardhan Nagamalli
+Bala Muralidhar Chelli
+Maniyarasi M
+Dandamudi Maneesha
+Medapati Adisekhar
+Ramadugu Venkata Sree Rama Chandra Murthy
+Veera Venkata Ratna Naveen Yenduri
+Srisri Tummu
+Nirupama Mathi
+Raja Sekhara Naidu Dande
+Murugan R
+Putti Tirumala Venkata Sai
+Praveen Kumar Pentyala
+Venkata Prasanth Kodari
+Saranya Venkatesan
+Sai Susmitha Kondari
+IT Admin
+Chinnakesava Srinivasulu
+Sunil Kumar Samanta
+Bankuru Prasada Rao
+Deleted User
+Deleted User
+Guna Sree Aavulinti
+Deleted User
+Venkata Lakshmi Bangaru
+Docintact Team
+Deleted User
+Deleted User
+Sai Aparna Kunkulagunta
+Deleted User
+Durga Suresh Paluri
+Deleted User
+Sandeep Burra
+Mownika Tenneti
+Deleted User
+ROOMS
+important linksRoom
+WEB-TT /Instant CashRoom
+Ionic mobile teamRoom
+#WALLETRoom
+teamsRoom
+BOTS
+Bots can automate tasks or send timely updates.
+
+Maniyarasi M
+maniyarasi.m@blackcactusglobal.in
+TUESDAY, 21 AUG 2018
+
+Maniyarasi M
+,
+21 Aug 2018, 12:07
+,
+@function makelongshadow($length,$angle) {
+    $val: 0px 0px transparent;
+    @for $i from 1 through $length {
+      $val: #{$val}, #{$i}px #{$i*$angle}px #aaa;
+    }
+    @return $val;
+  }
+  
+  @import url('https://fonts.googleapis.com/css?family=Roboto:700,900');
+  
+//   body {
+//     background: radial-gradient(#fff, #aaa);
+//     background-size: 100vw 100vh; 
+//     overflow: hidden;
+//     padding-top: 40vh;
+//   }
+  
+  .txt {
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 12vmin;
+    font-weight: 700;
+    font-size:200px;
+    animation: netflix_style 3.5s;
+    outline: none;
+    white-space: nowrap;
+  }
+  
+  @keyframes netflix_style {
+    0% {
+      text-shadow: makelongshadow(10,1);
+      color:#1188c0;
+      transform: scale(1.5, 1.5);
+    }
+    10% {
+      text-shadow: makelongshadow(10,1.5);
+      color:04e9de;
+      transform: scale(1.5, 1.5);
+    }
+    15% {
+       color:04e9de3;
+    }
+    20% {    
+      color:#1188c0;
+      text-shadow: none;
+      transform: scale(1.1, 1.1);
+    }
+    75% {
+      opacity: 1;
+    }
+    80% {
+      opacity: 0;    
+      color:#1188c0;
+      transform: scale(0.85, 0.9);
+    }
+    
+    100% {
+      opacity: 0;
+    }
+  }
+------------------------------------------------------------------------------------------
+<br>
+<br>
+<div class="txt">
+
+<h1>Welcome to e-wallet</h1></div>
+
+P Yuvaraju
+,
+21 Aug 2018, 14:53
+,
+https://codepen.io/kjbrum/pen/wBBLXx/
+Button Hover Effects
+Button Hover Effects
+codepen.io
+THURSDAY, 23 AUG 2018
+
+Maniyarasi M
+,
+23 Aug 2018, 09:19
+,
+https://medium.com/@priyeshp18/push-notifications-between-ionic-2-3-apps-using-fcm-d3971b0120ce
+Push notifications between Ionic 2/3 apps using FCM
+Push notifications between Ionic 2/3 apps using FCM
+medium.com
+
+Maniyarasi M
+,
+23 Aug 2018, 09:55
+,
+https://ionicframework.com/docs/native/background-mode/
+Ionic Framework
+Ionic Framework
+ionicframework.com
+THURSDAY, 30 AUG 2018
+
+P Yuvaraju
+,
+30 Aug 2018, 10:34
+,
+https://youtu.be/5e1NEdfs4is
+Play video
+
+P Yuvaraju
+,
+30 Aug 2018, 14:38
+,
+https://www.npmjs.com/package/generator-node-express-mongo
+generator-node-express-mongo
+generator-node-express-mongo
+www.npmjs.com
+
+P Yuvaraju
+,
+30 Aug 2018, 15:20
+,
+///////////////////////////////
+server file
+\\\\\\\\\\\\\\\\\\\
+yo node-express-mongo wallet
+]\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+api file
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+yo node-express-mongo:endpoint transaction
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+SUNDAY, 2 SEP 2018
+
+P Yuvaraju
+,
+2 Sep 2018, 11:22
+,
+exports.create = function (req, res, next) {
+  console.log(req.body.value+"111111111111111111111111111")
+  var newUser = new User(req.body);
+
+console.log(newUser+"++++++++++++++++++++++")
+  var QRCode = require('qrcode')
+  newUser.provider = 'local';
+  newUser.role = 'admin';
+  console.log(newUser)
+
+//  console.log(newUser)
+  QRCode.toDataURL(req.body.username, function ( err,url) {
+                                
+        console.log("qr code is generated");
+      let data = url.replace(/.*,/, '')
+    //  console.log(data)
+    
+     var img = new Buffer(data, 'base64')
+    //  console.log(img)
+                
+         newUser.img.data=img;  
+         newUser.img.contentType="image/png"  
+        console.log(newUser.img+"///////////////////////////////////////////") 
+
+        newUser.save(function(err, user) {
+   
+          console.log("inserted")
+        
+          if (err) return validationError(res, err);
+          var token = jwt.sign({_id: user._id }, config.secrets.session, { expiresInMinutes: 60*5 });
+          res.json({ token: token });
+      
+        })
+        });
+
+};
+THURSDAY, 6 SEP 2018
+
+Maniyarasi M
+,
+6 Sep 2018, 12:44
+,
+1111111111111111111111111111
+// Creates a new tansaction in the DB.
+exports.create = function(req, res) {
+  req.body.uid = req.user._id;
+  console.log("sending",+req.body)
+  Tansaction.create(req.body, function(err, tansaction) {
+    if(err) { return handleError(res, err); }
+    if(req.body.type == 'Transfer')
+    {
+      User.findById(req.user._id, function(err, user)
+      {
+        var data = {ledger: user.ledger - req.body.amount}
+        var updated = _.merge(user, data);
+        updated.save(function (err) {
+          if (err) { return handleError(res, err);}
+        });
+
+      })
+
+    }
+    
+    return res.status(201).json(tansaction);
+  });
+};
+12222222222222222222222222222
+
+Maniyarasi M
+,
+6 Sep 2018, 15:38
+,
+User.findById(req.user._id, function(err, user)
+
+Maniyarasi M
+,
+6 Sep 2018, 15:42
+,
+-----------------------------------------------------------
+User.findById(a, function (err, ben) {
+              if (err) return next(err);
+            console.log(ben);
+
+            var data1 = {ledger: parseInt(ben.ledger)+parseInt(req.body.amount) };
+             console.log("aaaaa",+data1);
+             var updated = _.merge(ben, data1);
+             console.log("bbbbb",+updated)
+            updated.save(function (err) {
+          
+        });
+
+              });
+TUESDAY, 11 SEP 2018
+
+Maniyarasi M
+,
+11 Sep 2018, 09:46
+,
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+http://tphangout.com/ionic-2-sending-push-notifications-to-specific-devices-part-1/
+Ionic 2 – Sending push notifications to specific devices (Part 1)
+Ionic 2 – Sending push notifications to specific devices (Part 1)
+tphangout.com
+MONDAY, 17 SEP 2018
+
+Maniyarasi M
+,
+17 Sep 2018, 09:22
+,
+--------------------------------------------------------------------------
+
+Maniyarasi M
+,
+17 Sep 2018, 09:25
+,
+login.html
+login.ts
+
+Maniyarasi M
+,
+17 Sep 2018, 09:39
+,
+<ion-label text-center><button  value="{{valbutton}}" type="submit"  ion-button style="width: 50%" round>Login</button></ion-label>
+
+Maniyarasi M
+,
+17 Sep 2018, 09:48
+,
+------------------------------
+<ion-header>
+
+  <ion-navbar hideBackButton>
+      <ion-buttons left>
+          <button ion-button (click)="this.navCtrl.pop({animation: 'ios-transition'})" padding>
+              <ion-icon class="customIcon" name="arrow-back" style="zoom:1.4;"></ion-icon>
+          </button>
+      </ion-buttons>
+      <ion-title>Login</ion-title>
+   </ion-navbar>
+
+</ion-header>
+-------------------------------------------
+myFunction()
+   {
+     this.clicked456=!this.clicked456;
+     this.show=!this.show;
+     if(this.clicked456)
+     {
+       this.type="text";
+     }
+     else if(!this.clicked456)
+     {
+       this.type="password";
+     }
+   }
+----------------------------------------------
+forgetpassword()
+   {
+     this.navCtrl.push('ForgetpasswordPage',null, {animation:"ios-transition"});
+   }
+
+Maniyarasi M
+,
+17 Sep 2018, 10:05
+,
+-------------------------------
+let backAction =  this.plt.registerBackButtonAction(() => {
+      if (this.navCtrl.canGoBack()) {
+        this.navCtrl.pop({animation:"ios-transition"});
+      }
+      else{
+        this.plt.exitApp();
+      }
+
+      backAction();
+    },1)
+-------------------------------------
+type="password";
+    clicked456=false;
+    show=true;
+    loading:any;
+    user:any;
+    pass:any;
+    mydata:any;
+    myval:any;
+    formSubmited:any;
+TUESDAY, 18 SEP 2018
+
+P Yuvaraju
+,
+18 Sep 2018, 13:38
+,
+https://crosswalk-project.org/documentation/tutorials/webrtc.html
+WebRTC
+crosswalk-project.org
+THURSDAY, 4 OCT 2018
+
+P Yuvaraju
+,
+4 Oct 2018, 16:04
+,
+exports.mobilecreate =  function(req, res) {
+  console.log(req.files);
+  if(req.files.Image)
+  {
+    var file = req.files.Image;
+    // var  filename=file.name;
+  
+  }else if(req.files.uploads)
+  {
+    var file = req.files.uploads;
+  }
+  var  filename=file.name;
+  var name = Math.floor(new Date() / 1000)+'.jpg';
+  var files = {};
+  files.originalFilename = file.name;
+  files.path = 'uploads/'+name;
+  files.size = files.size;
+  files.type = file.mimetype;
+  files.name = name;
+  file.mv("./uploads/"+name,function(err)
+  {
+        if(err)  console.log(err)
+        else  {
+          Media.create(files, function(err, media) {
+            if(err) { return handleError(res, err); }
+            return res.status(201).json(media);
+          });
+        }
+       
+      })
+  
+    
+  }
+TUESDAY, 9 OCT 2018
+
+Maniyarasi M
+,
+9 Oct 2018, 11:13
+,
+this.faio.isAvailable().then(data=>{
+      this.fingerenable=true
+    }).catch(error=>{
+      this.fingerenable=false;
+    });
+MONDAY, 15 OCT 2018
+
+Maniyarasi M
+,
+15 Oct 2018, 16:25
+,
+const confirm = this.alertCtrl.create({
+          // title: 'Confirmation',
+          cssClass: 'alertOk2',
+          message: 'Amount sent successfully',
+         
+          buttons: [
+            {
+              text: 'Ok',
+               cssClass: 'alertOk',
+    
+              handler: () => {
+                this.navCtrl.popToRoot({animation: 'ios-transition'});
+    
+    
+                console.log('Disagree clicked');
+              }
+            }
+           
+          ]
+        });
+        confirm.present();
+-------------------
+.alertOk2 .alert-message{
+    color:black !important;
+    overflow-y: hidden;
+}
+
+Maniyarasi M
+,
+15 Oct 2018, 16:45
+,
+text: 'Face Authentication',
+             cssClass: 'alertOk2',
+
+  
+            handler: () => {
+              this.actionSheet=null;
+
+
+              const confirm = this.alertCtrl.create({
+                // title: 'Confirmation',
+                cssClass: 'alertOk2',
+                message: 'Amount sent successfully',
+               
+                buttons: [
+                  {
+                    text: 'Ok',
+                     cssClass: 'alertOk2',
+          
+                    handler: () => {
+                      this.facedetect(user);
+          
+          
+                      console.log('Disagree clicked');
+                    }
+                  }
+                 
+                ]
+              });
+              confirm.present();
+TUESDAY, 16 OCT 2018
+
+Maniyarasi M
+,
+16 Oct 2018, 12:13
+,
+--------------------------
+git password:1141lov
+THURSDAY, 18 OCT 2018
+
+Maniyarasi M
+,
+18 Oct 2018, 09:24
+,
+inga va
+TUESDAY, 30 OCT 2018
+
+Maniyarasi M
+,
+30 Oct 2018, 15:50
+,
+-----------------------------
+.sub{
+    color: green !important;
+}
+-----------------------------------
+cssClass: 'sub',
+
+Maniyarasi M
+,
+30 Oct 2018, 16:40
+,
+-----------------------------------------------------
+.alertOk2 .alert-message{
+    color: green!important;
+    overflow-y: hidden;
+}
+SATURDAY, 10 NOV 2018
+
+P Yuvaraju
+,
+10 Nov 2018, 13:28
+,
+if(this.data!="trying to detect liveness"){
+    //  if(1){
+     if(this.data!="Unknown" && this.data!=this.spoof){
+        //  if(1){
+         this.pythonid=that.data
+         console.log(this.profileData._id)
+        //  console.log(this.facedata)
+        if(this.profileData._id==this.pythonid)
+        // if(1)
+{
+this.addapplication(this.accountvalue,this.final);
+          this.camopen=false;
+          this.times=false;                
+          let brightnessValue = 0.1;
+          this.brightness.setBrightness(this.getbrightness);
+          this.closetimer=true;
+          this.time=120;
+             // if(1 ){
+       
+                         
+             console.log("*****************************************")
+TUESDAY, 12 MAR 2019
+
+Maniyarasi M
+,
+12 Mar 2019, 12:14
+,
+https://www.code-sample.com/2018/12/angular-7-cryptojs-encrypt-decrypt.html
+Encryption Decryption a String in Angular 7 using CryptoJS and TypeScript - Angular 8, 7, 6, 5, 4 and 2 JavaScript ASP Net C# SQL Knockout Kendo Interview
+www.code-sample.com
+
+P Yuvaraju
+,
+12 Mar 2019, 12:59
+,
+i have done it
+
+Maniyarasi M
+,
+12 Mar 2019, 13:04
+,
+ok da mudu code sonadhu nanu
+adingu
+WEDNESDAY, 22 MAY
+
+P Yuvaraju
+,
+22 May, 10:39
+,
+punagalayuvaraju@gmail.com
+MONDAY, 3 JUN
+
+P Yuvaraju
+,
+3 Jun, 17:07
+,
+https://www.joshmorony.com/integrating-ionic-2-with-the-dropbox-api-part-1/
+Integrating Ionic 2 & 3 with the Dropbox API – Part 1 | joshmorony - Learn Ionic & Build Mobile Apps with Web Tech
+Integrating Ionic 2 & 3 with the Dropbox API – Part 1 | joshmorony - Learn Ionic & Build Mobile Apps with Web Tech
+www.joshmorony.com
+https://www.joshmorony.com/integrating-ionic-2-with-the-dropbox-api-part-2/
+Integrating Ionic 2 & 3 with the Dropbox API – Part 2 | joshmorony - Learn Ionic & Build Mobile Apps with Web Tech
+Integrating Ionic 2 & 3 with the Dropbox API – Part 2 | joshmorony - Learn Ionic & Build Mobile Apps with Web Tech
+www.joshmorony.com
+THURSDAY, 6 JUN
+
+Maniyarasi M
+,
+6 Jun, 15:46
+,
+npm uninstall @ionic-native/facebook@4.18.0 --save
+npm install --save @ionic-native/twitter-connect@4
+
+P Yuvaraju
+,
+6 Jun, 15:48
+,
+😞
+FRIDAY, 7 JUN
+
+P Yuvaraju
+,
+7 Jun, 17:22
+,
+exports.googledrivemobile =function(req,res)
+{
+  // ya29.GlshB_bsPiKs7TpmDIWhLMWqLZRIfQFmE3NE7nNo0T_lvf4yfjOvP3Jvs149kfCj_iPnftBcY_FMK81cIcCpzt4P5WRvIYcD332euc0Imbu6U2K4ZMWVhj5yArJj
+  console.log(req.body)
+  var request = require('request')
+  var headers = { "Authorization": 'Bearer ' + req.body.googletoken }
+  request.get({
+    url: 'https://www.googleapis.com/drive/v3/files/',
+    headers: headers
+  }, function (error, response, filedata) {
+  console.log(response.body)
+  console.log(filedata)
+
+  })
+    
+}
+
+Maniyarasi M
+,
+7 Jun, 17:51
+,
+----------------------------------------
+var token={token:this.accessToken,
+
+
+          }
+            return this.http.post(this.serverurl + '/api/users/dropboxmobile',token)
+MONDAY, 10 JUN
+
+Maniyarasi M
+,
+10 Jun, 09:46
+,
+-----------------------------------
+-----------------------
+https://www.dropbox.com/1/oauth2/redirect_receiver
+
+Maniyarasi M
+,
+10 Jun, 11:39
+,
+onedrive() {
+
+  // this.splashScreen.show();
+
+  const url = https://login.microsoftonline.com/common/oauth2/authorize?client_id=
+
+    + '8b4e97e3-bd65-48ae-916b-90bb4617fe5b'+ //here need to paste your client id
+
+    &response_type=code&redirect_uri=
+
+    + encodeURI("urn:ietf:wg:oauth:2.0:oob") + //here encoding redirect url using default function
+
+    &response_mode=query&resource=
+
+    + encodeURI("https://example.sharepoint.com") + //here encoding resource url using default function
+
+    &state=12345;
+
+ //here we create iab browser for login page.
+
+  const browser = this.iab.create(url, '_blank', {
+
+    location: 'no',
+
+    zoom: 'no',
+
+    hardwareback: 'no',
+
+    clearcache: 'yes'
+
+  });
+
+  browser.on("loadstart").subscribe((event) => {
+
+    // this.splashScreen.show();
+
+  });
+
+  browser.on("loadstop").subscribe((event) => {
+
+    // this.splashScreen.hide();
+
+    browser.show();
+
+  });
+
+  browser.on("loaderror").subscribe((event) => {
+
+  //here we have split our requiring part one.  
+
+    var result = event.url.split("code=");     
+
+    console.log("Authentication result", result);
+
+    //here we have split our requiring part two.
+
+    window["AuthResult"] = result[1].split('&')[0];    
+
+    // Authentication Code stored in local for future purpose.
+
+    // It means get access token and refresh token for sharepoint.     
+
+    localStorage.setItem('AuthCode', window["AuthResult"]); 
+
+    browser.close();
+
+  });
+
+  browser.on("exit").subscribe(
+
+    (event) => {
+
+      //Below line for checking if closing event
+
+      if (event) {
+
+        if (event.type.toLowerCase() == 'exit') {
+
+          if (localStorage.getItem("AuthCode") && localStorage.getItem("AuthCode") == 'cancel') {
+
+            this.plt.exitApp();  //This line is used for close a app. In case not logged in.
+
+            event.preventDefault();
+
+            return true;
+
+          }
+
+        }
+
+      }
+
+    },
+
+    (err) => {
+
+      console.log("InAppBrowser Loadstop Event Error: " + err);
+
+    }
+
+  );
+
+}
+FRIDAY, 14 JUN
+
+Maniyarasi M
+,
+14 Jun, 15:06
+,
+<uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-feature android:name="android.hardware.location.gps" />
+MONDAY, 24 JUN
+
+Maniyarasi M
+,
+24 Jun, 16:30
+,
+oi
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+idhana config chnage pandradhu
+github ku
+
+P Yuvaraju
+,
+24 Jun, 16:31
+,
+Looks good
+
+Maniyarasi M
+,
+24 Jun, 16:31
+,
+thuuuuu
+advance happy birthday
+
+P Yuvaraju
+,
+24 Jun, 16:56
+,
+tq u
+same to u
+
+P Yuvaraju
+,
+24 Jun, 16:58
+,
+router.post('/fbverifyemail', controller.fbverifyemail);
+exports.fbverifyemail = function (req,res)
+{
+console.log(req.body)
+User.findOne({})
+}
+
+Maniyarasi M
+,
+24 Jun, 17:13
+,
+backend laya separate method ha
+
+P Yuvaraju
+,
+24 Jun, 17:18
+,
+just for backup
+FRIDAY, 19 JUL
+
+Maniyarasi M
+,
+19 Jul, 15:41
+,
+folderpath testing varaiya
+
+P Yuvaraju
+,
+19 Jul, 15:45
+,
+ss
+MONDAY, 22 JUL
+
+Maniyarasi M
+,
+22 Jul, 10:13
+,
+repository setup theriuma unaku
+
+P Yuvaraju
+,
+22 Jul, 10:13
+,
+chapppa matter
+come here
+
+Maniyarasi M
+,
+22 Jul, 10:13
+,
+thu solu
+SATURDAY, 18 JAN
+
+P Yuvaraju
+,
+18 Jan, 10:22
+,
+uri: 'mongodb://ciladmin:ciladmin123@172.16.1.103:27017/admin'
+backup
+
+Maniyarasi M
+,
+18 Jan, 10:22
+,
+okok
+
+
+
+History on

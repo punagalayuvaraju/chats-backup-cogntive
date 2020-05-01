@@ -1,0 +1,180 @@
+Chat
+STARRED
+B Suhashiniprabhu
+Dhana Sekhar Buddha
+Jyothi Tantiya
+Kadali Manoj Kumar
+Kumaran V
+Mahesh Mekala
+Mallikarjuna Prasad
+Naga Durga prasad Matta
+Nikhil Mohan Goud Burra
+Pavani Sahukari
+Pradeep Kumar J
+Sai Krishna Para
+Sathish Kumar C
+Thiyagarajan Dhilipkumar
+Venkatesh Chavvakula
+Yugandhar Reddy Dubba
+PEOPLE
+Devendraswamy Revu
+Mandala Mani Teja
+Gayatri Prasanna Burra
+Rajasekhar Yadavalli
+Madasu Satya Krishna
+Venkata Kalyan Bellamkonda
+More DMs.
+More
+ROOMS
+important linksRoom
+WEB-TT /Instant CashRoom
+Ionic mobile teamRoom
+#WALLETRoom
+teamsRoom
+BOTS
+Bots can automate tasks or send timely updates.
+FRIDAY, 11 OCT
+
+Kumaran V
+,
+11 Oct, 10:26
+,
+not exracting
+done
+
+P Yuvaraju
+,
+11 Oct, 10:36
+,
+kk
+TUESDAY, 15 OCT
+
+Kumaran V
+,
+15 Oct, 09:57
+,
+https://developers.google.com/drive/api/v3/quickstart/nodejs
+Node.js Quickstart | Google Drive API | Google Developers
+developers.google.com
+
+P Yuvaraju
+,
+15 Oct, 09:58
+,
+what is this nonsense
+😏
+THURSDAY, 17 OCT
+
+P Yuvaraju
+,
+17 Oct, 11:00
+,
+1 399 936 767
+FRIDAY, 18 OCT
+
+Kumaran V
+,
+18 Oct, 11:51
+,
+https://staging.docintact.com/allowusers/ow5IHVg3ist96rEHs4b7lFYOCm05OwbTRYFlx28ZFmIcFcFc
+
+Kumaran V
+,
+18 Oct, 12:26
+,
+https://staging.docintact.com/allowusers/lK8kZMCz1C0vGmMPAagWTnc_YipmU9oMVg6ctt3SBtAcFcFc
+THURSDAY, 28 NOV
+
+P Yuvaraju
+,
+28 Nov, 11:47
+,
+router.post('/multipleAuthTXNS',auth.isAuthenticated(), controller.multipleAuthTXNS);
+/**
+ * @api {get} /generalservice/multipleAuthTXNS multiple authorization 
+ * @apiHeader (Authorization) {String} authorization Bearer Authorization value will sent through headers.
+ * @apiName multipleAuthTXNS
+ * @apiGroup generalservice
+ *
+ * @apiSuccess {array} ALL Created users information we will get 
+ * @apiError 500-InternalServerError SERVER error.
+ */
+
+exports.multipleAuthTXNS = function (req,res)
+{
+if(req.body.autharray.length>0)
+{
+
+
+  async.each(req.body.autharray,function(element,callback){
+  if(element)
+  {
+   
+  }
+  else{callback()}
+})
+}
+
+
+
+
+
+else{res.status(200).json({message:'Failed'})}
+}
+THURSDAY, 26 DEC
+
+P Yuvaraju
+,
+26 Dec, 09:48
+,
+sudo kill -9 $(sudo lsof -t -i:9001)
+to kill running ports
+MONDAY, 3 FEB
+
+P Yuvaraju
+,
+3 Feb, 16:52
+,
+https://www.bennadel.com/blog/3533-using-router-events-to-detect-back-and-forward-browser-navigation-in-angular-7-0-4.htm
+Using Router Events To Detect Back And Forward Browser Navigation In Angular 7.0.4
+Using Router Events To Detect Back And Forward Browser Navigation In Angular 7.0.4
+www.bennadel.com
+TUESDAY, 4 FEB
+
+P Yuvaraju
+,
+4 Feb, 15:33
+,
+kums
+come here once
+WEDNESDAY, 12 FEB
+
+P Yuvaraju
+,
+12 Feb, 18:07
+,
+https://www.itsolutionstuff.com/post/angular-form-validation-no-whitespace-allowed-exampleexample.html
+Angular Form Validation no Whitespace Allowed Example
+Angular Form Validation no Whitespace Allowed Example
+www.itsolutionstuff.com
+https://stackblitz.com/edit/trailing-whitespace-validator?file=app%2Fapp.component.ts
+trailing-whitespace-validator - StackBlitz
+trailing-whitespace-validator - StackBlitz
+stackblitz.com
+TUESDAY, 18 FEB
+
+P Yuvaraju
+,
+18 Feb, 14:24
+,
+kill -9 $(lsof -t -i:4200)
+TUESDAY, 10 MAR
+
+P Yuvaraju
+,
+Tue 17:32
+,
+https://stackblitz.com/edit/angular-material-animation?file=app/dialog-overview-example.ts
+
+History on
+Entering starred section
